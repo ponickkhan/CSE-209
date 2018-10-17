@@ -12,11 +12,11 @@ CSE,University of development alternative
 - Mysql Database intigration 
 - User Athentication 
 
-
+#Sql for Database
 ```markdown
-Sql for Database
 
-# CREATE TABLE IF NOT EXISTS `user` (
+
+ CREATE TABLE IF NOT EXISTS `user` (
   `id` int(100) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) NOT NULL,
   `gender` varchar(255) NOT NULL,
@@ -27,14 +27,7 @@ Sql for Database
   PRIMARY KEY (`id`)
 ) ;
 
-## Header 2
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 
