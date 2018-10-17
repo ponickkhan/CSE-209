@@ -34,7 +34,7 @@ CSE,University of development alternative
 
 ### Download Project
 
-from here (https://github.com/ponickkhan/CSE-209/archive/master.zip). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+from here (https://github.com/ponickkhan/CSE-209/archive/master.zip). 
 
 ### Support or Contact
 
