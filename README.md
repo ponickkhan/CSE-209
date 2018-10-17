@@ -13,7 +13,7 @@ CSE,University of development alternative
 - User Athentication 
 
 ### Demo
-[![https://youtu.be/DbChwV7tHyA]](https://www.youtube.com/watch?v=DbChwV7tHyA)
+[https://youtu.be/DbChwV7tHyA](https://www.youtube.com/watch?v=DbChwV7tHyA)
 
 #Sql for Database
 ```markdown
