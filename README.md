@@ -12,7 +12,8 @@ CSE,University of development alternative
 - Mysql Database intigration 
 - User Athentication 
 
-[![### Demo]](https://www.youtube.com/watch?v=DbChwV7tHyA)
+### Demo
+[![https://youtu.be/DbChwV7tHyA]](https://www.youtube.com/watch?v=DbChwV7tHyA)
 
 #Sql for Database
 ```markdown
