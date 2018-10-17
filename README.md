@@ -32,9 +32,9 @@ CSE,University of development alternative
 
 
 
-### Jekyll Themes
+### Download Project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ponickkhan/plider/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+from here (https://github.com/ponickkhan/CSE-209/archive/master.zip). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
