@@ -1,8 +1,8 @@
 # CSE-209
 
 Advance Java Course Project<br/>
-Course Teacher: Mir Sohrab Ali Polin
-Project Created By Md.Rafiuzzaman Khan
+Course Teacher: Mir Sohrab Ali Polin<br/>
+Project Created By Md.Rafiuzzaman Khan<br/>
 CSE,University of development alternative
 
 Features:
