@@ -10,7 +10,7 @@ CSE,University of development alternative
 
 - Swing GUI for signin,signup,dashboard
 - Mysql Database intigration 
-- User Athentication 
+- User Authentication 
 
 ### Demo
 [https://youtu.be/DbChwV7tHyA](https://www.youtube.com/watch?v=DbChwV7tHyA)
